@@ -5,12 +5,12 @@ You can create a button to play an MovieURL(mp4, mov) !!!
 
 
 ## How to use
-1.First, place the button on the wall.
+1. First, place the button on the wall.
 
-2.Next, set the "/pmb \<your movie URL\>" command.
+2. Next, set the "/pmb \<your movie URL\>" command.
 At this time, the end of the movie URL must be the extension of the video.
 
-3.Finally, press the button, the video you set will start playing..
+3. Finally, press the button, the video you set will start playing..
 
 
 ## Permissions
