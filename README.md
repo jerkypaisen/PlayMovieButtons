@@ -1,7 +1,8 @@
 # PlayMovieButtons plugin
 You can create a button to play an MovieURL(mp4, mov) !!!
 
-https://youtu.be/0mGv-XWoMjk
+[![PlayMovieButtons plugin](http://img.youtube.com/vi/0mGv-XWoMjk/0.jpg)](https://www.youtube.com/watch?v=0mGv-XWoMjk)
+
 
 ## How to use
 1.First, place the button on the wall.
